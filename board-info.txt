@@ -1,0 +1,4 @@
+require version-baseband=4.3-00458.7-SM6150_GEN_PACK-1.200827.1.222168.1
+require version-modem=2019-12-1013:59:34
+require version-trustzone=TZ.XF.5.0.3-00036
+require version-vendor=1576749920
